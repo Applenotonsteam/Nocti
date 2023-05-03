@@ -1,0 +1,22 @@
+body, header, h1, h2, footer, table, img{
+padding: 0;
+border: 0;
+}
+
+h1{
+    color: #F7A26C;
+}
+h2{
+    color: #CCAF9D;
+}
+
+table{
+    background-color: #804720;
+}
+
+img{
+    word-wrap: normal;
+    padding-right: 0;
+    size: 300px, 240px;
+
+}
